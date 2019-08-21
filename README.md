@@ -1,5 +1,5 @@
-# helloRESTjavlinkotlin
-Hello World REST example using Kotlin with Javlin
+# helloRESTjavalinkotlin
+Hello World REST example using Kotlin with Javalin
 
 ## How to run
 Hello Rest will run on port 7000. You can run it either in IntelliJ Idea by running the HelloWorld.kt class or using the docker file.
