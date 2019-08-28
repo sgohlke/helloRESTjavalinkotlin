@@ -40,8 +40,6 @@ Get all persons with age 40:
 Get the firstName of all persons with age 40 and lastName Meier:
    `{
       persons(age:40, lastName:"Meier") {
-          lastName
           firstName
-          age
         }
       }`
